@@ -7,6 +7,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 #container{
     width: 70%;
     padding: 1px;
@@ -34,10 +35,21 @@ body{
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
+<<<<<<< HEAD
     font-size: 0.8em;
 }
 
 #post{
     background: white;
     padding: 1em;
+=======
+    font-size: 0.5em;
+}
+
+.footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.2em;
+>>>>>>> footer
 }
